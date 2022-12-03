@@ -1,5 +1,12 @@
 # Bioconductor Classes and Methods Working Group
 
+- Description: Discussions arounnd Bioconductor 'official' classes and
+  methods and how to articulate their benefits to increase their usage
+  across the ecosystem, in particular in new contributions.
+- Leads: Laurent Gatto
+- Current Members: Vince Cary, Laurent Gatto, Johannes Rainer, Lori
+  Shepherd
+
 The Bio Classes and Methods Working Group tackles the following
 questions and issues:
 
