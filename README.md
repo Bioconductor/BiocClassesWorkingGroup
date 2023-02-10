@@ -22,3 +22,8 @@ questions and issues:
 
 - If not strictly enforced, should we at least require a wrapper
   function to convert to these?
+
+
+# Meetings
+
+- [WG meeting 2023-02-10](https://github.com/Bioconductor/BiocClassesWorkingGroup/issues/3)
