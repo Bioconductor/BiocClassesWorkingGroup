@@ -23,6 +23,7 @@ questions and issues:
 - If not strictly enforced, should we at least require a wrapper
   function to convert to these?
 
+To participate, feel free to open/reply to issues and join the #biocclasses slack channel.
 
 # Meetings
 
